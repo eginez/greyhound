@@ -1,3 +1,6 @@
 micronaut:
   application:
     name: grayhound
+  metrics:
+    enabled: true
+
